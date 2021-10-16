@@ -8,7 +8,6 @@
 </p>
 
 ## Documentation
-Can be see here : 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/3676962-13ec0fd8-98d1-4a8c-8b1c-013b17fc8124?action=collection%2Ffork&collection-url=entityId%3D3676962-13ec0fd8-98d1-4a8c-8b1c-013b17fc8124%26entityType%3Dcollection%26workspaceId%3De71dcadb-7a4f-4bfe-a9c4-ae125a5c00c3)
+Can be see here : https://documenter.getpostman.com/view/3676962/UV5WCxc1
 
 
